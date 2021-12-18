@@ -1,0 +1,54 @@
+
+ ShellExecuteEx GetExitCodeProcess 0
+
+[14.12.2021 15:38:36]
+<From SendMail> Return code: 0
+
+[14.12.2021 16:23:18]
+Hook started... Timer started
+
+[14.12.2021 16:24:59]
+Hook started... Timer started
+
+[14.12.2021 16:25:33]
+ ShellExecuteEx1 GetExitCodeProcess 7
+
+[14.12.2021 16:25:33]
+ ShellExecuteEx GetExitCodeProcess 0
+
+[14.12.2021 16:25:33]
+<From SendMail> Return code: 0
+
+[14.12.2021 16:26:38]
+ ShellExecuteEx1 GetExitCodeProcess 7
+
+[14.12.2021 16:27:12]
+ ShellExecuteEx1 GetExitCodeProcess 7
+
+[14.12.2021 18:23:43]
+ ShellExecuteEx1 GetExitCodeProcess 7
+
+[14.12.2021 18:23:43]
+ ShellExecuteEx GetExitCodeProcess 0
+
+[14.12.2021 18:23:43]
+<From SendMail> Return code: 0
+
+[14.12.2021 18:24:53]
+Hook started... Timer started
+
+[15.12.2021 00:17:09]
+Hook started... Timer started
+
+[15.12.2021 00:17:52]
+ ShellExecuteEx1 GetExitCodeProcess 7
+
+[15.12.2021 00:17:52]
+ ShellExecuteEx GetExitCodeProcess 0
+
+[15.12.2021 00:17:52]
+<From SendMail> Return code: 0
+
+[15.12.2021 00:18:27]
+ ShellExecuteEx1 GetExitCodeProcess 7
+
